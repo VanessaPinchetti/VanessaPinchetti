@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **BookMatch**
 
-- 🌱 I’m currently learning **JavaScript, React**
+- 🌱 I’m currently learning **JavaScript, React, Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/VanessaPinchetti?tab=repositories](https://github.com/VanessaPinchetti?tab=repositories)
 
